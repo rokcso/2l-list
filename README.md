@@ -28,6 +28,6 @@ Self-use tools for finishing.
 
 - ASCIIFlow：https://asciiflow.cn/
 - 微信读书组队：https://weread.qnmlgb.tech/
-- 网络代理加速工具：
+- DevSidecar：
 	- Gitee：https://gitee.com/docmirror/dev-sidecar
 	- GitHub：https://github.com/docmirror/dev-sidecar
