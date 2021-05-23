@@ -32,3 +32,7 @@ Self-use tools for finishing.
 - DevSidecar：
 	- Gitee：https://gitee.com/docmirror/dev-sidecar
 	- GitHub：https://github.com/docmirror/dev-sidecar
+
+## [用户脚本](https://github.com/waringhu/2l-list/blob/main/posts/user-script.md)
+
+- open-the-f_king-url-right-now：https://greasyfork.org/zh-CN/scripts/412612-open-the-f-king-url-right-now
