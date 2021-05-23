@@ -9,6 +9,7 @@ Self-use tools for finishing.
 	- Tampermonkey：https://www.tampermonkey.net/
 - 💻 [Windows 工具](https://github.com/waringhu/2l-list/blob/main/posts/windows-tool.md)
 	- Everything：https://www.voidtools.com/zh-cn/
+	- uTools：https://u.tools/
 - 🖼 [图片工具](https://github.com/waringhu/2l-list/blob/main/posts/image-tool.md)
 - 🗃 [其他工具](https://github.com/waringhu/2l-list/blob/main/posts/other-tool.md)
 	- ASCIIFlow：https://asciiflow.cn/

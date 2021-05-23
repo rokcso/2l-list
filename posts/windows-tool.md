@@ -4,9 +4,19 @@
 
 ## 文件检索：[Everything](https://www.voidtools.com/zh-cn/)
 
+> 费用：免费
+
 Everything 是 Windows 上的一款轻量级的高速文件检索工具，它能够基于文件名快速定位文件和文件夹，并且支持搜索文件内容。
 
 Everything 的运行占用系统资源非常少，个人建议配合 [uTools](https://u.tools/) 使用。
 
 ![Everything 配合 uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/Everything.png)
+
+## [uTools](https://u.tools/)
+
+> 平台：Win\Mac\Linux
+
+一个极简、插件化的现代化桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。
+
+![uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/uTools.png)
 
