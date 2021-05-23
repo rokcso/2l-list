@@ -6,11 +6,11 @@
 
 在线绘制纯文本流程图，可保存到本地。
 
-![ASCIIFlow](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/ASCIIFlow.png)
+![asciiflow](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/asciiflow.png)
 
 ## 微信读书组队：[瓦斯组队](https://weread.qnmlgb.tech/)
 
 微信读书互助组队工具，不需要再到处分享拉人，网站里还有更多微信读书辅助工具。
 
-![weread](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/weread.png)
+![WeRead](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/WeRead.png)
 

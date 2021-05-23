@@ -10,13 +10,12 @@ Everything 是 Windows 上的一款轻量级的高速文件检索工具，它能
 
 Everything 的运行占用系统资源非常少，个人建议配合 [uTools](https://u.tools/) 使用。
 
-![Everything 配合 uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/Everything.png)
+![Everything 配合 uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/everything.png)
 
-## [uTools](https://u.tools/)
+## 极简工具集：[uTools](https://u.tools/)
 
 > 平台：Win\Mac\Linux
 
 一个极简、插件化的现代化桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。
 
-![uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/uTools.png)
-
+![uTools](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/utools.png)
