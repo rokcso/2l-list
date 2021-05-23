@@ -14,3 +14,14 @@
 
 ![WeRead](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/WeRead.png)
 
+## 网络代理加速工具：DevSidecar
+
+> GitHub：https://github.com/docmirror/dev-sidecar
+> Gitee：https://gitee.com/docmirror/dev-sidecar
+
+通过本地代理的方式将 https 请求代理到一些国内的加速通道上，可以加速很多国外网站。
+
+![DevSidecar](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/other-tool/DevSidecar.png)
+
+
+
