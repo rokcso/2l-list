@@ -31,3 +31,15 @@ Everything 的运行占用系统资源非常少，个人建议配合 [uTools](ht
 非常强大的护眼工具，资源占用极低，可自定义的内容十分丰富。
 
 ![f.lux](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/flux.png)
+
+## 输入法：[RIME](https://rime.im/)
+
+真正的输入法，击响中文之韵。
+
+![f.lux](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/rime.png)
+
+## 最强截图工具：[Snipaste](https://zh.snipaste.com/)
+
+简单强大的截图、贴图工具。
+
+![f.lux](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/windows-tool/snipaste.png)

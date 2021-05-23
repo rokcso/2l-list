@@ -18,7 +18,8 @@ Self-use tools for finishing.
 - uTools：https://u.tools/
 - Geek Uninstaller：https://geekuninstaller.com/
 - f.lux：https://justgetflux.com/
-
+- Snipaste：https://zh.snipaste.com/
+- RIME | 中州韵输入法引擎：https://rime.im/
 
 ## 🖼 [图片工具](https://github.com/waringhu/2l-list/blob/main/posts/image-tool.md)
 
