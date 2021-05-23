@@ -16,8 +16,8 @@
 
 ## 网络代理加速工具：DevSidecar
 
-> GitHub：https://github.com/docmirror/dev-sidecar
-> Gitee：https://gitee.com/docmirror/dev-sidecar
+> - GitHub：https://github.com/docmirror/dev-sidecar
+> - Gitee：https://gitee.com/docmirror/dev-sidecar
 
 通过本地代理的方式将 https 请求代理到一些国内的加速通道上，可以加速很多国外网站。
 
