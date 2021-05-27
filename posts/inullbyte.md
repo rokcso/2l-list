@@ -2,6 +2,10 @@
 
 > Included in [2l-list](https://github.com/waringhu/2l-list)
 
+<div align=center>
+	<img src="https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/inullbyte/inullbyte-QR.png" width="250" alt="欢迎关注微信公众号「空字节」" />
+</div>
+
 | Index | 资源名称                            | 资源链接 | 获取关键词 | 文章链接                                          | 文章发布日期 |
 | ----- | ----------------------------------- | -------- | ---------- | ------------------------------------------------- | ------------ |
 |       |                                     |          |            |                                                   |              |
