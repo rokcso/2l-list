@@ -41,7 +41,11 @@ Self-use tools for finishing.
 
 > 欢迎关注我的资源分享公众号：`空字节`
 
-![inullbyte-QR](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/inullbyte/inullbyte-QR.png)
+<div align=center>
+	<img src="https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/inullbyte/inullbyte-QR.png" width="200" alt="欢迎关注微信公众号「空字节」" />
+</div>
+
+
 
 
 
