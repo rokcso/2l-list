@@ -33,6 +33,15 @@ Self-use tools for finishing.
 	- Gitee：https://gitee.com/docmirror/dev-sidecar
 	- GitHub：https://github.com/docmirror/dev-sidecar
 
-## [用户脚本](https://github.com/waringhu/2l-list/blob/main/posts/user-script.md)
+## 🔫 [用户脚本](https://github.com/waringhu/2l-list/blob/main/posts/user-script.md)
 
 - open-the-f_king-url-right-now：https://greasyfork.org/zh-CN/scripts/412612-open-the-f-king-url-right-now
+
+## 📦 [公众号「空字节」资源链接整理](https://github.com/waringhu/2l-list/blob/main/posts/inullbyte.md)
+
+> 欢迎关注我的资源分享公众号：`空字节`
+
+![inullbyte-QR](https://cdn.jsdelivr.net/gh/waringhu/simp-CDN/2l-list/inullbyte/inullbyte-QR.png)
+
+
+
